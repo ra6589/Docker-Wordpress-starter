@@ -17,11 +17,13 @@ first you need install docker engin and (and docker composer in linux)
 
 ## Usage
 
-`localhost:8080 ` the local wordpress address
+local wordpress address: `localhost:8080 `
 
-`localhost:8080/wp-admin ` the admin address
+admin dashboard address `localhost:8080/wp-admin `
 
-`localhost:8090 ` phpMyAdmin address with:
+phpMyAdmin address with:`localhost:8090 `
+
+### mysql username and password:
 
 > username: pedram <br/>
 > password: 123456
